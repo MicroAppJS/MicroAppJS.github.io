@@ -1,0 +1,20 @@
+{
+    "name": "Micro App",
+    "short_name": "Micro App",
+    "icons": [
+        {
+            "src": "/icons/apple-touch-icon-169x169.png",
+            "sizes": "169x169",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/apple-touch-icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#0172CD"
+}
